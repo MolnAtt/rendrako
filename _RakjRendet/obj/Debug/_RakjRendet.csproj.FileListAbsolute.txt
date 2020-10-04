@@ -1,0 +1,6 @@
+C:\Users\MolnarAttila\Desktop\_rakjrendet\_RakjRendet\bin\Debug\_RakjRendet.exe.config
+C:\Users\MolnarAttila\Desktop\_rakjrendet\_RakjRendet\bin\Debug\_RakjRendet.exe
+C:\Users\MolnarAttila\Desktop\_rakjrendet\_RakjRendet\bin\Debug\_RakjRendet.pdb
+C:\Users\MolnarAttila\Desktop\_rakjrendet\_RakjRendet\obj\Debug\_RakjRendet.csprojAssemblyReference.cache
+C:\Users\MolnarAttila\Desktop\_rakjrendet\_RakjRendet\obj\Debug\_RakjRendet.exe
+C:\Users\MolnarAttila\Desktop\_rakjrendet\_RakjRendet\obj\Debug\_RakjRendet.pdb
